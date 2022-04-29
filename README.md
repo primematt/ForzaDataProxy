@@ -1,5 +1,5 @@
 # ForzaDataProxy
-A small proxy for Forza Horizon 5 Data Out data.
+A small proxy for Forza Horizon 5 Data Out data, that translates the DataOut packets to JSON for easy consumption in other apps.
 
 ## Configuration
 Configure the service in `appsettings.json`.
